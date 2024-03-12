@@ -36,7 +36,7 @@ Growth Prediction of Retail Stock Using Financial statement and financial index
 
 ## Results
 ![ภาพ](https://github.com/juliee235/Growth-Prediction-of-Retail-Stock/assets/138569824/9986607c-e9e2-4284-ac39-53543eba383b)\
-Hyperparameter tuning
+Hyperparameter tuning\
 ![ภาพ](https://github.com/juliee235/Growth-Prediction-of-Retail-Stock/assets/138569824/fce4ca48-7079-4886-8b16-dd9004690bf2)
 
 ## Conclusion
